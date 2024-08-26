@@ -1,4 +1,4 @@
-Hi, I'm Danilo
+## Hi, I'm Danilo
 
 I actually...
 
@@ -9,3 +9,10 @@ I actually...
 🛠️ Also use tools like Spring, .NET, PostgreSQL and MySQL.
 
 📖 Learning more about English every day and always open to new projects and experiences.
+
+"One is better than zero"
+
+# GitHub
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=danilosnt&show_icons=true&theme=radical)](https://github.com/seu-usuario)
+
