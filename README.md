@@ -8,7 +8,7 @@ I actually...
 
 🛠️ Also use tools like Spring, PostgreSQL and MySQL.
 
-📖 Learning more about English every day and always open to new projects and experiences.
+📖 Learning more about English everyday and always open to new projects and experiences.
 
 "One is better than zero"
 
