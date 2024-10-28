@@ -2,7 +2,7 @@
 
 I actually...
 
-🎓 Currently pursuing a Bachelor's degree in Software Engineering.
+🎓 Currently studying Bachelor's degree in Software Engineering.
 
 💻 Work with the following languages: HTML, CSS, JavaScript and Java.
 
