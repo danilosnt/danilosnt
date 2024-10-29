@@ -1,14 +1,14 @@
-## Hi, I'm Danilo
+<h1 align="center">Hi, I'm Danilo</h1>
 
-I actually...
+<h3>I actually...</h3>
 
-🎓 Currently studying Bachelor's degree in Software Engineering.
+- 🎓 Currently studying Bachelor's degree in Software Engineering.
 
-💻 Work with the following languages: HTML, CSS, JavaScript and Java.
+- 💻 Work with the following languages: HTML, CSS, JavaScript and Java.
 
-🛠️ Also use tools like Spring, PostgreSQL and MySQL.
+- 🛠️ Also use tools like Spring, PostgreSQL and MySQL.
 
-📖 Learning more about English everyday and always open to new projects and experiences.
+- 📖 Learning more about English everyday and always open to new projects and experiences.
 
 "One is better than zero"
 
