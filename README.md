@@ -12,9 +12,8 @@
 
 "One is better than zero"
 <div align="center">
-
-  ![danilosnt](https://github-readme-stats.vercel.app/api?username=danilosnt&theme=dark)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilosnt&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  ![danilosnt](https://github-readme-stats.vercel.app/api?username=danilosnt&theme=transparent&include_all_commits=true&custom_title=Danilo%27s%20GitHub%20Stats&line_height=25) 
   
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilosnt&layout=donut&theme=transparent&hide_progress=true)
 </div>
