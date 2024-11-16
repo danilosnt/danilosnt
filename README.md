@@ -11,5 +11,10 @@
 - 📖 Learning more about English everyday and always open to new projects and experiences.
 
 "One is better than zero"
+<div align="center">
 
-[![danilosnt](https://github-readme-stats.vercel.app/api?username=danilosnt&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  ![danilosnt](https://github-readme-stats.vercel.app/api?username=danilosnt&theme=dark)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilosnt&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
