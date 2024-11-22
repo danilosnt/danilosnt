@@ -11,9 +11,8 @@
 - 📖 Learning more about English everyday and always open to new projects and experiences.
 
 "One is better than zero"
-<div align="center">
-  
-  ![danilosnt](https://github-readme-stats.vercel.app/api?username=danilosnt&theme=transparent&include_all_commits=true&custom_title=Danilo%27s%20GitHub%20Stats&line_height=25) 
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilosnt&layout=donut&theme=transparent&hide_progress=true)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danilosnt&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=255fcc&icon_color=255fcc&text_color=c9d1d9&bg_color=0d1117&custom_title=Danilo's%20GitHub%20Status" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilosnt&layout=compact&hide_border=true&title_color=255fcc&text_color=26a64d&bg_color=0d1117" /> 
 </div>
