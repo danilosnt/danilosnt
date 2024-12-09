@@ -4,7 +4,7 @@
 
 - 🎓 Currently studying Bachelor's degree in Software Engineering.
 
-- 💻 Work with the following languages: Java and Angular.
+- 💻 Work with the following languages: Java and Swift.
 
 - 🛠️ Also use tools like Spring, PostgreSQL and MySQL.
 
