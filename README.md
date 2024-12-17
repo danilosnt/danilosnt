@@ -6,13 +6,11 @@
 
 - 🎓 Currently studying Bachelor's degree in Software Engineering.
 
-- 💻 Work with the following languages: Swift and Java.
+- 💻 Work with the languages: Swift (focused on iOS development) and Java (to backend and system development).
 
 - 🛠️ Also use tools like Spring, PostgreSQL and MySQL.
 
 - 📖 Learning more about English everyday and always open to new projects and experiences.
-
-"One is better than zero"
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danilosnt&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=255fcc&icon_color=255fcc&text_color=c9d1d9&bg_color=0d1117&custom_title=Danilo's%20GitHub%20Status" />
