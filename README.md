@@ -6,7 +6,7 @@
 
 - 🎓 Currently pursuing Bachelor's degree in Software Engineering
 
-- 💻 Work with the languages: Swift (focused on iOS development) and Java (for backend and system development)
+- 💻 Work with the languages: Swift (focused on iOS development), Flutter (for mobile development) and Java & Dart (for backend and system development)
 
 - 🛠️ Also use tools like PostgreSQL and MySQL (to databases management)
 
