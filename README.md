@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Danilo</h1>
 
-<h3>👋 Welcome to my GitHub!</h3>
+<h3> Welcome to my GitHub!</h3>
 
 <h4>I actually...</h4>
 
