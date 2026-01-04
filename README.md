@@ -4,7 +4,7 @@
 
 <h4>I actually...</h4>
 
-- 🎓 Currently pursuing Bachelor's degree in Software Engineering
+- 🎓 Currently pursuing Bachelor's degree in Software Engineering and Data Science
 
 - 💻 Work with the languages: Java (for backend and system development) and Swift (focused on iOS development)
 
