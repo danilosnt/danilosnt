@@ -6,7 +6,7 @@
 
 - 🎓 Currently pursuing Bachelor's degree in Software Engineering and Data Science
 
-- 💻 Work with the languages: Java (for backend and system development) and Swift (focused on iOS development)
+- 💻 Work with the languages: Java and Python (for backend and system development) and Swift (focused on iOS development)
 
 - 🛠️ Also use tools like PostgreSQL and MySQL (to databases management)
 
