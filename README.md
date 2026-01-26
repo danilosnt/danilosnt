@@ -8,8 +8,6 @@
 
 - 💻 Work with the languages: Java and Python (for backend and system development) and Swift (focused on iOS development)
 
-- 🛠️ Also use tools like PostgreSQL and MySQL (to databases management)
-
 - 📖 Continuously improving my English skills and always eager to embrace new projects and experiences
 
 <div align="center">  
