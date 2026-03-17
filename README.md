@@ -4,7 +4,7 @@
 
 <h4>I actually...</h4>
 
-- 🎓 Currently pursuing Bachelor's degree in Software Engineering and Data Science
+- 🎓 Currently pursuing Bachelor's degree in Software Engineering and Associate's Degree in Data Science
 
 - 💻 Work with the languages: Java and Python (for backend and system development)
 
