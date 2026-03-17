@@ -8,6 +8,8 @@
 
 - 💻 Work with the languages: Java and Python (for backend and system development)
 
+- 📚 Learning about Exploratory Data Analysis, Artificial Inteligence and Large Languages Models
+
 - 📖 Continuously improving my English skills and always eager to embrace new projects and experiences
 
 <div align="center">  
