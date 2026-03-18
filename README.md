@@ -6,7 +6,7 @@
 
 - 🎓 Currently pursuing Bachelor's degree in Software Engineering and Associate's Degree in Data Science
 
-- 💻 Work with the languages: Java and Python (for backend and system development)
+- 💻 Work with the languages: Dart, Java and Python (for backend and system development)
 
 - 📚 Learning about Exploratory Data Analysis, Artificial Inteligence and Large Languages Models
 
